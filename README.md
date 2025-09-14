@@ -108,8 +108,7 @@ This project focuses on a comprehensive analysis of a global cancer patient data
 ## Key Findings
 
 - 38-40% of all cancer cases are diagnosed at early stages (Stage 0 or I).
-- Smoking and Genetic Risk are the most significant contributors to cancer severity.
-- Current features do not explain variation in survival years effectively.
+- Risk Factors do not explain variation in survival years effectively.
 - Treatment cost does not correlate with survival outcomes.
 - There is no significant interaction between smoking and genetic risk on severity.
 
